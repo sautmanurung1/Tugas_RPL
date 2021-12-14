@@ -12247,7 +12247,7 @@ html {
 }
 
 .bg-gradient-primary-to-secondary {
-  background: linear-gradient(45deg, #461111, #A13333) !important;
+  background: linear-gradient(45deg, #FF3244, #71202A) !important;
 }
 
 .font-alt {
@@ -12255,7 +12255,7 @@ html {
 }
 
 .text-gradient {
-  background: -webkit-linear-gradient(#461111, #A13333);
+  background: -webkit-linear-gradient(#FF3244, #71202A);
   background-clip: text;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
